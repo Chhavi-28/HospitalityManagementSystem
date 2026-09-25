@@ -1,8 +1,9 @@
-# Hospitality Management System
+# 🏨 Hospitality Management System
 
-A Java-based Hospitality Management System developed using Java Swing, JDBC, and MySQL. The application provides a desktop interface for managing hotels, rooms, guests, and reservations.
+A Java-based Hospitality Management System developed using **Java Swing, JDBC, and MySQL**.  
+The application provides a desktop interface for managing hotels, rooms, guests, and reservations.
 
-## Features
+## ✨ Features
 
 - Hotel Management
 - Room Management
@@ -12,9 +13,9 @@ A Java-based Hospitality Management System developed using Java Swing, JDBC, and
 - MySQL Database Integration
 - JDBC Connectivity
 - Java Swing GUI
-- Retrieve Data using JTable
+- Data Retrieval using JTable
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Java
 - Java Swing
@@ -23,7 +24,7 @@ A Java-based Hospitality Management System developed using Java Swing, JDBC, and
 - Eclipse IDE
 - Git & GitHub
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 HospitalityManagementSystem
@@ -53,34 +54,3 @@ HospitalityManagementSystem
 │       └── ViewDataForm.java
 │
 └── module-info.java
------Database--------
-
-The application uses MySQL with the following main tables:
-
-Hotel
-Room
-Guest
-Reservation
-
----How to Run-----
-Install Java JDK.
-Install MySQL.
-Create the required database and tables.
-Configure the database connection in DatabaseConnector.java.
-Open the project in Eclipse.
-Add the required JDBC driver.
-Run HospitalityGUI.java.
-Application Interface
-
-The application provides separate interfaces for:
-
-Adding Hotels
-Adding Rooms
-Adding Guests
-Adding Reservations
-Retrieving stored data
-Author
-
-Chhavi Nagariya
-
-B.Tech CSE
